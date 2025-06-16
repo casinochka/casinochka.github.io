@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>endorphina</title>
+    <defs>
+        <linearGradient x1="46.3417757%" y1="103.2376%" x2="53.6649533%" y2="-3.331368%" id="linearGradient-1">
+            <stop stop-color="#0B0A54" offset="0%"></stop>
+            <stop stop-color="#03246D" offset="23.1373%"></stop>
+            <stop stop-color="#01ACEE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.7621762%" y1="-135.947732%" x2="53.6649533%" y2="103.144%" id="linearGradient-2">
+            <stop stop-color="#553704" offset="0%"></stop>
+            <stop stop-color="#792307" offset="23.1373%"></stop>
+            <stop stop-color="#FEA702" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.902528%" y1="48.1548387%" x2="100.808%" y2="52.3393548%" id="linearGradient-3">
+            <stop stop-color="#6A0804" offset="0%"></stop>
+            <stop stop-color="#A5080F" offset="23.1373%"></stop>
+            <stop stop-color="#FD121B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="All-logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-providers" transform="translate(-207.000000, -269.000000)">
+            <g id="endorphina" transform="translate(207.000000, 269.000000)">
+                <rect id="Rectangle" x="0" y="0" width="27" height="27"></rect>
+                <g transform="translate(4.000000, 2.000000)" fill-rule="nonzero" id="Shape">
+                    <path d="M19.688,4.41599998 C19.688,4.41599998 16.652,0 9.84400001,0 C4.232,0 1.27736314e-15,3.128 1.27736314e-15,4.96799998 C1.27736314e-15,7.08399998 4.232,8.18800001 4.232,11.5 L11.5,11.5 C11.5,9.56799999 5.15200001,8.55599999 5.15200001,4.41599998 C5.15200001,0.643999999 14.996,0.919999998 19.688,4.41599998 Z" fill="url(#linearGradient-1)"></path>
+                    <path d="M19.688,18.584 C19.688,18.584 16.652,23 9.84400001,23 C4.232,23 1.27736314e-15,19.872 1.27736314e-15,18.032 C1.27736314e-15,15.916 4.232,14.72 4.232,11.5 L11.5,11.5 C11.5,13.432 5.15200001,14.444 5.15200001,18.584 C5.15200001,22.356 14.996,22.08 19.688,18.584 Z" fill="url(#linearGradient-2)"></path>
+                    <path d="M0.0919999998,4.32399999 C1.27736314e-15,4.60000001 1.27736314e-15,4.78399999 1.27736314e-15,4.96799998 C1.27736314e-15,7.08399998 4.232,8.18800001 4.232,11.5 C4.232,14.72 1.27736314e-15,15.916 1.27736314e-15,18.032 C1.27736314e-15,18.216 1.27736314e-15,18.4 0.0919999998,18.584 C-0.460000001,16.56 6.89999999,14.812 10.304,12.972 C11.04,12.512 11.5,12.052 11.5,11.5 C11.5,10.948 11.04,10.488 10.304,10.028 C6.89999999,8.18800001 -0.460000001,6.43999999 0.0919999998,4.32399999 Z" fill="url(#linearGradient-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
